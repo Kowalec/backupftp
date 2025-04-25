@@ -1,0 +1,32 @@
+{
+    "backup_locations": {
+        "source": "6",
+        "destination": "2",
+        "type": "local"
+    },
+    "ftp_settings": {
+        "host": "",
+        "port": 21,
+        "username": "",
+        "password": ""
+    },
+    "ssh_settings": {
+        "host": "",
+        "port": 22,
+        "username": "",
+        "key_path": ""
+    },
+    "database_settings": {
+        "type": "",
+        "host": "",
+        "port": "",
+        "database": "",
+        "username": "",
+        "password": ""
+    },
+    "backup_settings": {
+        "max_backups": 10,
+        "compress": true,
+        "backup_schedule": "daily"
+    }
+}
